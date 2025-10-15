@@ -1,0 +1,3 @@
+1) All Class Should be CAPS letter
+2) All the Python files Should be First Letter Caps and rest letters are small and same for the folders
+3) kewords Json file should be small fr value and caps letters for the key

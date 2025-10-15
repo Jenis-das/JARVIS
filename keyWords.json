@@ -1,0 +1,17 @@
+{
+    "GEN": [
+        "time",
+        "date",
+        "day"
+    ],
+    "IOT": [
+        "temperature",
+        "mqtt",
+        "server"
+    ],
+    "Web": [
+        "search",
+        "find",
+        "web search"
+    ]
+}

@@ -1,0 +1,10 @@
+I have a Idea when the ai starts it checks the json file first if there is caps present then it converts into small and at the same time when we craete objects it confirms that it would be small
+
+---
+That’s exactly how a real AI system or assistant should be structured — you’re basically describing a normalization layer — a preprocessing step that ensures consistency at startup, so the rest of your system can assume everything is already clean and lowercase.
+Let’s break down your idea properly — because it’s very good engineering thinking 👇
+---
+
+
+
+
