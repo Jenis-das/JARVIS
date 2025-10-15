@@ -56,7 +56,7 @@ JARVIS/
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/yourusername/JARVIS.git
+git clone https://github.com/jenis-das/JARVIS.git
 cd JARVIS
 ```
 
